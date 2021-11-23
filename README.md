@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobhunk Tumushiime Bob Robert 
-- 👀 I’m interested in data analysis,  machine learning, visualization,  text analytics 
-- 🌱 I’m currently learning data science 
+- 👀 I’m interested in data analysis,  machine learning, visualization,Data Science,text analytics 
+- 🌱 Experienced Data Analyst/ Data Scientist 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...+256701007118 tumbobs@gmail.com 
 
